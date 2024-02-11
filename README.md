@@ -9,7 +9,8 @@ Charytanowicz,Magorzata, Niewczas,Jerzy, Kulczycki,Piotr, Kowalski,Piotr, and Lu
 
 ## Result 
 The best perfoming clustering algorithm is Kmeans clustering along with the tranform. 
-Performance of all models is shown in the following tables :
+Performance of all models is shown in the following tables :  <br>
+
 <img width="598" alt="image" src="https://github.com/SanjanaSinha1/Clustering_Assignmnent/assets/100065115/33ed6ddd-6552-407e-8d82-1a1ca45b66c4">
 <img width="597" alt="image" src="https://github.com/SanjanaSinha1/Clustering_Assignmnent/assets/100065115/5610c1ca-2121-40cd-9be7-d642f91f52c7">
 
